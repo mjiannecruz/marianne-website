@@ -1,0 +1,15 @@
+
+.top{
+  background-color: mistyrose;
+  padding: 10px;
+}
+.title{
+  color: burlywood;
+  font-size: 90px;
+}
+.subhead{
+  color:lightblue;
+  font-size: 40px;
+}
+
+p {font-size: 35px;}
